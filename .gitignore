@@ -1,0 +1,10 @@
+# Local vote database (created when the app runs)
+mess_votes.db
+*.db
+
+# Python cache
+__pycache__/
+*.pyc
+
+# macOS
+.DS_Store
